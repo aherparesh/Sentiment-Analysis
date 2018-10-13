@@ -1,7 +1,7 @@
 # Sentiment-Analysis-on-Amazon-Product-RNN
 performed sentiment analysis on kaggle's dataset of amazon product reviews using machine learning and deep learning algorithm</br>
 
-<h1> Machine Learning Algorithm<h1>
+<h1> Machine Learning Algorithm</h1>
 1.Naive bayes-98% Accuracy</br>
 2.KNN-98% Accuracy</br>
 3.Gradient Boosting-98% Accuracy</br>
