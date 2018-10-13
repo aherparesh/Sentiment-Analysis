@@ -3,7 +3,7 @@ performed sentiment analysis on kaggle's dataset of amazon product reviews using
 <h1> Details</h1>
 1.Language-Python</br>
 2.IDE-jupyter notebook</br>
-3.Libraries-keras,tensorflow,pandas,numpy,matplotlib,seaborn.</br>
+3.Libraries-keras,tensorflow,pandas,numpy,matplotlib,seaborn,sklearn,nklt.</br>
 
 <h1> Machine Learning Algorithm</h1>
 1.Naive bayes-98% Accuracy</br>
