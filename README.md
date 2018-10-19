@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Amazon-Product-RNN
+# Sentiment-Analysis
 performed sentiment analysis on kaggle's dataset of amazon product reviews using machine learning and deep learning algorithm</br>
 <h1> Details</h1>
 1.Language-Python</br>
